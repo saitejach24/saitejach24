@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saitejach24
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m learning MERN stack
 - 📫 How to reach me saitejajobs24@gmail.com , 9182934648
   
 
